@@ -151,7 +151,6 @@ plt.show()
 
 ### iv)Image Reflection
 <img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/e83d6aad-a9aa-4662-8f1b-d739fad70d9c" width="200" height= "200">
-<br>
 <img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/1643fbd0-4d70-48cb-a80a-0e6971c56d75" width="200" height= "200">
 <br>
 
