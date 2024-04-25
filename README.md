@@ -134,31 +134,35 @@ plt.show()
 ```
 ## Output:
 ### Input Image:
-![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/35b17489-2eff-4b37-aa6a-5fc10123b25d)
+<img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/35b17489-2eff-4b37-aa6a-5fc10123b25d" width="200" height= "200">
 <br>
+
 ### i)Image Translation
-![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/4f65c597-fc9b-4e73-bef8-1ab40a0f0f53)
+<img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/4f65c597-fc9b-4e73-bef8-1ab40a0f0f53" width="200" height= "200">
 <br>
 
 ### ii) Image Scaling
-![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/b8e4bb0f-4f3b-4ce1-b3b5-a96b5faebe3a)
+<img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/b8e4bb0f-4f3b-4ce1-b3b5-a96b5faebe3a" width="200" height= "200">
 <br>
+
 ### iii)Image shearing
-![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/ec803ebc-5516-4686-9876-6b479c115dce)
-![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/bffdfd9f-50f0-4144-aa23-5a23f537e61d)
+<img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/ec803ebc-5516-4686-9876-6b479c115dce" width="200" height= "200">
+<img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/bffdfd9f-50f0-4144-aa23-5a23f537e61d" width="200" height= "200">
 <br>
+
 ### iv)Image Reflection
-![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/e83d6aad-a9aa-4662-8f1b-d739fad70d9c)
-![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/1643fbd0-4d70-48cb-a80a-0e6971c56d75)
+<img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/e83d6aad-a9aa-4662-8f1b-d739fad70d9c" width="200" height= "200">
+<img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/1643fbd0-4d70-48cb-a80a-0e6971c56d75" width="200" height= "200">
 <br>
-
-
 
 ### v)Image Rotation
-![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/b936d4ed-b843-4fef-95f3-022960a4e44c)
+<img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/b936d4ed-b843-4fef-95f3-022960a4e44c" width="200" height= "200">
 <br>
+
 ### vi)Image Cropping
-![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/fea6a802-8796-43ca-a214-40e3c44e6a93)<br>
+<img src = "https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/fea6a802-8796-43ca-a214-40e3c44e6a93" width="200" height= "200">
+<br>
+  
 ## Result: 
 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
