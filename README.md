@@ -133,51 +133,32 @@ plt.imshow(cropped_img)
 plt.show()
 ```
 ## Output:
+### Input Image:
+![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/35b17489-2eff-4b37-aa6a-5fc10123b25d)
+<br>
 ### i)Image Translation
-<br>
-<br>
-<br>
+![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/4f65c597-fc9b-4e73-bef8-1ab40a0f0f53)
 <br>
 
 ### ii) Image Scaling
+![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/b8e4bb0f-4f3b-4ce1-b3b5-a96b5faebe3a)
 <br>
-<br>
-<br>
-<br>
-
-
 ### iii)Image shearing
+![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/ec803ebc-5516-4686-9876-6b479c115dce)
+![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/bffdfd9f-50f0-4144-aa23-5a23f537e61d)
 <br>
-<br>
-<br>
-<br>
-
-
 ### iv)Image Reflection
-<br>
-<br>
-<br>
+![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/e83d6aad-a9aa-4662-8f1b-d739fad70d9c)
+![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/1643fbd0-4d70-48cb-a80a-0e6971c56d75)
 <br>
 
 
 
 ### v)Image Rotation
+![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/b936d4ed-b843-4fef-95f3-022960a4e44c)
 <br>
-<br>
-<br>
-<br>
-
-
-
 ### vi)Image Cropping
-<br>
-<br>
-<br>
-<br>
-
-
-
-
+![download](https://github.com/Adhithyaram29D/IMAGE-TRANSFORMATIONS/assets/119393540/fea6a802-8796-43ca-a214-40e3c44e6a93)<br>
 ## Result: 
 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
